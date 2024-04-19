@@ -3,8 +3,9 @@
 [GuilhermeMSilveira](https://github.com/GuilhermeMSilveira)<br>
 [luizotavio-vieira](https://github.com/luizotavio-vieira)<br>
 
-##Links Uteis
+## Links Uteis
 https://www.youtube.com/watch?v=eOrWEsZIfKU - Como sair do ZERO no DELTA LAKE e PYSPARK em apenas 1H
+
 https://www.youtube.com/watch?v=WwrX1YVmOyA - Como sair do ZERO no PySpark em 2024!
 
 ## Configuração do ambiente:
