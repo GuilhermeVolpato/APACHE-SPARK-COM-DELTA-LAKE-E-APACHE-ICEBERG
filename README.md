@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=WwrX1YVmOyA - Como sair do ZERO no PySpark em 20
 - Caso ja tenha pip, porem versão antiga- rodar `python.exe -m pip install --upgrade pip`
 - Download jupyter notebook - `pip install jupyterlab`
 - Donwload pyspark `pip install pyspark`
+- poetry add pyspark==3.4.2 delta-spark==2.4.0 jupyterlab 
+
 
 ## Rodar projeto:
 no cmd, rodar o comando `python -m notebook`
