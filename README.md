@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=WwrX1YVmOyA - Como sair do ZERO no PySpark em 20
 
 ## Rodar projeto:
 no cmd, rodar o comando `python -m notebook`
+
+## Link DataFrame
+
+- https://dados.gov.br/dados/conjuntos-dados/serie-historica-de-precos-de-combustiveis-e-de-glp?source=post_page-----4185005771e5--------------------------------
