@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=WwrX1YVmOyA - Como sair do ZERO no PySpark em 20
 
 ## Configuração do ambiente:
 - Download python - https://www.python.org/downloads/
-- Download pip caso não venha junto com o python- https://pip.pypa.io/en/stable/installation/
+- Download pip caso não venha junto com o python - https://pip.pypa.io/en/stable/installation/
 - Caso ja tenha pip, porem versão antiga- rodar `python.exe -m pip install --upgrade pip`
 - Download jupyter notebook - `pip install jupyterlab`
 - Donwload pyspark `pip install pyspark`
